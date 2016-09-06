@@ -11,4 +11,4 @@ print "What state or providence are you from? "
 state = gets.chomp
 
 puts "Your name is #{first_name} #{last_name} and you're from #{city}, #{state}"
-
+puts "checando Git"
